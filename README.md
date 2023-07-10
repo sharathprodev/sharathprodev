@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sharathprodev
+- 👋 Hi, I’m sharath
 - 👀 I’m interested in development
 - 🌱 I’m currently learning everything tech
 - 💞️ I’m looking to collaborate on tech
