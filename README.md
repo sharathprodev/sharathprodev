@@ -1,10 +1,8 @@
-- 👋 Hi, I’m sharath
-- 👀 I’m interested in development
-- 🌱 I’m currently learning everything tech
-- 💞️ I’m looking to collaborate on tech
-- 📫 How to reach me sharathprodev@gmail.com
+### Hi there 👋 I'm Sharath, an AI Engineer specializing in NLP and Machine Learning.
 
-<!---
-sharathprodev/sharathprodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 **Working on**: Transformer models, LLM fine-tuning, and deploying ML pipelines.
+- 🌱 **Learning**: Quantization, ONNX, and MLOps tools like MLflow.
+- 💬 **Ask me about**: NLP, PyTorch, or open-source contributions.
+- 📫 **Reach me**: [LinkedIn](your-linkedin) | [Website](your-website)
+
+**Skills**: Python | PyTorch | Hugging Face | TensorFlow | MLflow | Gradio/Streamlit
